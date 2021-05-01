@@ -1,0 +1,25 @@
+table{
+    height: 600px;
+    width: 100vh;
+    font-size: 100px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+#btn{
+    height: 100px;
+    width: 100px;
+    font-size: 100%;
+    border-radius: 10px;
+}
+
+#btn1{
+    height: 100px;
+    width: 200px;
+    font-size: 50%;
+    border-radius: 10px;
+}
+
+input:hover{
+ background-color: brown;
+}
